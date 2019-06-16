@@ -1,5 +1,5 @@
 # Chatkit Retract App
-An app that shows how to withdraw chaat messages after they are sent.
+An app that shows how to withdraw chat messages after they are sent.
 
 ## Getting Started
 
