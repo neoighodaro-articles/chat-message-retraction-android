@@ -1,6 +1,8 @@
 # Chatkit Retract App
 An app that shows how to withdraw chat messages after they are sent.
 
+* https://pusher.com/tutorials/android-chat-message-retraction
+
 ## Getting Started
 
 Clone the repository. The repository has a `backend` folder which contains the backend and the `android-app` folder for the Android app.
